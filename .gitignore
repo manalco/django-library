@@ -4,7 +4,8 @@
 *.pyc
 __pycache__
 db.sqlite3
-media
+# NOTE: Media will be added into the repo to load initial demo files.
+# media
 
 # Backup files # 
 *.bak 
