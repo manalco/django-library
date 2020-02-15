@@ -1,5 +1,4 @@
 from django.db import models
-from .models import Subject
 
 
 class Book(models.Model):
