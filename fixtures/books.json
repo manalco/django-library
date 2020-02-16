@@ -1,0 +1,52 @@
+[
+{
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+        "name": "Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "description": "This book is a standalone book and does not include an access code.This edition features the same content as the traditional text in a convenient, three-hole-punched, loose-leaf version. Books a la Carte also offer a great value\u2013this format costs significantly less than a new textbook. Before purchasing, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, including customized versions for individual schools, and registrations are not transferable. In addition, you may need a Course ID, provided by your instructor, to register for and use Pearson's MyLab & Mastering products.",
+        "author": "Randall Dewey Knight",
+        "stock": 5
+    }
+},
+{
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+        "name": "Calculus",
+        "description": "With a long history of innovation in the calculus market, the Larson CALCULUS program has been widely praised by a generation of students and professors for solid and effective pedagogy that addresses the needs of a broad range of teaching and learning styles and environments. Each title in the series is just one component in a comprehensive calculus course program that carefully integrates and coordinates print, media, and technology products for successful teaching and learning. For use in or out of the classroom, the companion website LarsonCalculus.com offers free access to multiple tools and resources to supplement students\u2019 learning. Stepped-out solution videos with instruction are available at CalcView.com for selected exercises throughout the text.",
+        "author": "Ron Larson",
+        "stock": 3
+    }
+},
+{
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+        "name": "Python for Beginners: The Crash Course to Learn Python Programming in 3-Days (or less). Master Artificial Intelligence for Data Science and Machine Learning + Practical Exercises",
+        "description": "Python is a powerful modern computer programming language and it is easy to learn. The syntax is simple and it allows the programmers to state their ideas in fewer lines of codes.\r\n\r\nIt is an interpreted language and no compilation is necessary. It is often used as a scripting language and it is available on Windows, Mac OS and UNIX operating systems.\r\n\r\nThe variable and argument declarations are not necessary as it is determined implicitly. One major advantage of using Python is that it is platform-independent and you can run it on any operating system without any issues.\r\n\r\nMany people are scared to get into any type of coding because they think that it will be too hard or that they will never be able to figure it all out. But when they take a look at Python, they see how easy coding can be.\r\n\r\nThat is what this guidebook took some time to look at this, and looked at some of the different codes that you want to write with this kind of coding language. We also took it a bit of the more advanced types of coding that you can do with this language as well, ensuring that you are going to be able to get the results that you would like.\r\n\r\nThere are a lot of things that you are able to do with the Python language and how you can use it with machine learning. This guidebook is going to take some time to look at all of these aspects so you can do some of the codings in the process. When you are ready to begin your journey with Python, make sure to check out this guidebook to help you get started!",
+        "author": "Aaron Khan",
+        "stock": 2
+    }
+},
+{
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+        "name": "Learning Python: Powerful Object-Oriented Programming",
+        "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz\u2019s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It\u2019s an ideal way to begin, whether you\u2019re new to programming or a professional developer versed in other languages.\r\n\r\nComplete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3\u2014 the latest releases in the 3.X and 2.X lines\u2014plus all other releases in common use today. You\u2019ll also learn some advanced language features that recently have become more common in Python code.",
+        "author": "Mark Lutz",
+        "stock": 2
+    }
+},
+{
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+        "name": "Python Pocket Reference: Python In Your Pocket",
+        "description": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You\u2019ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.\r\n\r\nWritten by Mark Lutz\u2014widely recognized as the world\u2019s leading Python trainer\u2014Python Pocket Reference is an ideal companion to O\u2019Reilly\u2019s classic Python tutorials, Learning Python and Programming Python, also written by Mark.",
+        "author": "Mark Lutz",
+        "stock": 1
+    }
+}
+]
