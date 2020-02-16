@@ -7,6 +7,7 @@ from datetime import date
 
 from books.models import Book
 
+
 class Loan(models.Model):
 	student = models.ForeignKey(User, related_name='loans', on_delete=models.CASCADE, limit_choices_to={'groups__name': "Student"})
 	book = models.ForeignKey('books.Book', null=True, related_name='loans', on_delete=models.CASCADE)
