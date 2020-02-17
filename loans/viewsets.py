@@ -9,7 +9,7 @@ class LoanViewSet(viewsets.ModelViewSet):
 
 	# To display only loans that belong to the current user
 	# def get_queryset(self):
-	#	if self.request.user.pk == 1:
+	#	if self.request.user.pk == 1 OR self.request.user.group.name == 'Librarian':
 	#		response = Loan.objects.all()
 	#	else:
 	#		response = Loan.objects.filter(student=self.request.user)

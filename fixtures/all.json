@@ -88,11 +88,19 @@
     }
 },
 {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "authtoken",
+        "model": "token"
+    }
+},
+{
     "model": "sessions.session",
-    "pk": "fpjnu2v6dbpz2asa31dapai4ly90fbkh",
+    "pk": "ss6ukbij7carqz5cekkih2eme5gzefu7",
     "fields": {
         "session_data": "YWZlMjJhZjg4ODNmYzI4MjM2MzZhMjVjYjZlZjM4MWRlNjhhMjRmNDp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4ZjQ3NmJkZDdkZjUxZDVlYTZkNTZmNGVlNDhjMjgzYTAxMDRlMjk4In0=",
-        "expire_date": "2020-02-29T15:51:57.309Z"
+        "expire_date": "2020-03-02T22:34:11.719Z"
     }
 },
 {
@@ -140,8 +148,8 @@
     "pk": 1,
     "fields": {
         "name": "Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
-        "description": "This book is a standalone book and does not include an access code.This edition features the same content as the traditional text in a convenient, three-hole-punched, loose-leaf version. Books a la Carte also offer a great value\u2013this format costs significantly less than a new textbook. Before purchasing, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, including customized versions for individual schools, and registrations are not transferable. In addition, you may need a Course ID, provided by your instructor, to register for and use Pearson's MyLab & Mastering products.",
         "author": "Randall Dewey Knight",
+        "description": "This book is a standalone book and does not include an access code.This edition features the same content as the traditional text in a convenient, three-hole-punched, loose-leaf version. Books a la Carte also offer a great value\u2013this format costs significantly less than a new textbook. Before purchasing, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, including customized versions for individual schools, and registrations are not transferable. In addition, you may need a Course ID, provided by your instructor, to register for and use Pearson's MyLab & Mastering products.",
         "stock": 5
     }
 },
@@ -150,8 +158,8 @@
     "pk": 2,
     "fields": {
         "name": "Calculus",
-        "description": "With a long history of innovation in the calculus market, the Larson CALCULUS program has been widely praised by a generation of students and professors for solid and effective pedagogy that addresses the needs of a broad range of teaching and learning styles and environments. Each title in the series is just one component in a comprehensive calculus course program that carefully integrates and coordinates print, media, and technology products for successful teaching and learning. For use in or out of the classroom, the companion website LarsonCalculus.com offers free access to multiple tools and resources to supplement students\u2019 learning. Stepped-out solution videos with instruction are available at CalcView.com for selected exercises throughout the text.",
         "author": "Ron Larson",
+        "description": "With a long history of innovation in the calculus market, the Larson CALCULUS program has been widely praised by a generation of students and professors for solid and effective pedagogy that addresses the needs of a broad range of teaching and learning styles and environments. Each title in the series is just one component in a comprehensive calculus course program that carefully integrates and coordinates print, media, and technology products for successful teaching and learning. For use in or out of the classroom, the companion website LarsonCalculus.com offers free access to multiple tools and resources to supplement students\u2019 learning. Stepped-out solution videos with instruction are available at CalcView.com for selected exercises throughout the text.",
         "stock": 3
     }
 },
@@ -160,8 +168,8 @@
     "pk": 3,
     "fields": {
         "name": "Python for Beginners: The Crash Course to Learn Python Programming in 3-Days (or less). Master Artificial Intelligence for Data Science and Machine Learning + Practical Exercises",
-        "description": "Python is a powerful modern computer programming language and it is easy to learn. The syntax is simple and it allows the programmers to state their ideas in fewer lines of codes.\r\n\r\nIt is an interpreted language and no compilation is necessary. It is often used as a scripting language and it is available on Windows, Mac OS and UNIX operating systems.\r\n\r\nThe variable and argument declarations are not necessary as it is determined implicitly. One major advantage of using Python is that it is platform-independent and you can run it on any operating system without any issues.\r\n\r\nMany people are scared to get into any type of coding because they think that it will be too hard or that they will never be able to figure it all out. But when they take a look at Python, they see how easy coding can be.\r\n\r\nThat is what this guidebook took some time to look at this, and looked at some of the different codes that you want to write with this kind of coding language. We also took it a bit of the more advanced types of coding that you can do with this language as well, ensuring that you are going to be able to get the results that you would like.\r\n\r\nThere are a lot of things that you are able to do with the Python language and how you can use it with machine learning. This guidebook is going to take some time to look at all of these aspects so you can do some of the codings in the process. When you are ready to begin your journey with Python, make sure to check out this guidebook to help you get started!",
         "author": "Aaron Khan",
+        "description": "Python is a powerful modern computer programming language and it is easy to learn. The syntax is simple and it allows the programmers to state their ideas in fewer lines of codes.\r\n\r\nIt is an interpreted language and no compilation is necessary. It is often used as a scripting language and it is available on Windows, Mac OS and UNIX operating systems.\r\n\r\nThe variable and argument declarations are not necessary as it is determined implicitly. One major advantage of using Python is that it is platform-independent and you can run it on any operating system without any issues.\r\n\r\nMany people are scared to get into any type of coding because they think that it will be too hard or that they will never be able to figure it all out. But when they take a look at Python, they see how easy coding can be.\r\n\r\nThat is what this guidebook took some time to look at this, and looked at some of the different codes that you want to write with this kind of coding language. We also took it a bit of the more advanced types of coding that you can do with this language as well, ensuring that you are going to be able to get the results that you would like.\r\n\r\nThere are a lot of things that you are able to do with the Python language and how you can use it with machine learning. This guidebook is going to take some time to look at all of these aspects so you can do some of the codings in the process. When you are ready to begin your journey with Python, make sure to check out this guidebook to help you get started!",
         "stock": 2
     }
 },
@@ -170,8 +178,8 @@
     "pk": 4,
     "fields": {
         "name": "Learning Python: Powerful Object-Oriented Programming",
-        "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz\u2019s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It\u2019s an ideal way to begin, whether you\u2019re new to programming or a professional developer versed in other languages.\r\n\r\nComplete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3\u2014 the latest releases in the 3.X and 2.X lines\u2014plus all other releases in common use today. You\u2019ll also learn some advanced language features that recently have become more common in Python code.",
         "author": "Mark Lutz",
+        "description": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz\u2019s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It\u2019s an ideal way to begin, whether you\u2019re new to programming or a professional developer versed in other languages.\r\n\r\nComplete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3\u2014 the latest releases in the 3.X and 2.X lines\u2014plus all other releases in common use today. You\u2019ll also learn some advanced language features that recently have become more common in Python code.",
         "stock": 2
     }
 },
@@ -180,8 +188,8 @@
     "pk": 5,
     "fields": {
         "name": "Python Pocket Reference: Python In Your Pocket",
-        "description": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You\u2019ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.\r\n\r\nWritten by Mark Lutz\u2014widely recognized as the world\u2019s leading Python trainer\u2014Python Pocket Reference is an ideal companion to O\u2019Reilly\u2019s classic Python tutorials, Learning Python and Programming Python, also written by Mark.",
         "author": "Mark Lutz",
+        "description": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You\u2019ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.\r\n\r\nWritten by Mark Lutz\u2014widely recognized as the world\u2019s leading Python trainer\u2014Python Pocket Reference is an ideal companion to O\u2019Reilly\u2019s classic Python tutorials, Learning Python and Programming Python, also written by Mark.",
         "stock": 1
     }
 },
@@ -618,6 +626,42 @@
     }
 },
 {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add Token",
+        "content_type": 12,
+        "codename": "add_token"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change Token",
+        "content_type": 12,
+        "codename": "change_token"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete Token",
+        "content_type": 12,
+        "codename": "delete_token"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view Token",
+        "content_type": 12,
+        "codename": "view_token"
+    }
+},
+{
     "model": "auth.group",
     "pk": 1,
     "fields": {
@@ -655,7 +699,17 @@
     "pk": 2,
     "fields": {
         "name": "Librarian",
-        "permissions": []
+        "permissions": [
+            13,
+            16,
+            40,
+            48,
+            41,
+            42,
+            44,
+            28,
+            32
+        ]
     }
 },
 {
@@ -663,7 +717,11 @@
     "pk": 3,
     "fields": {
         "name": "Student",
-        "permissions": []
+        "permissions": [
+            40,
+            48,
+            44
+        ]
     }
 },
 {
@@ -671,7 +729,7 @@
     "pk": 1,
     "fields": {
         "password": "pbkdf2_sha256$180000$b1bvu8cyYyhY$tTypR3V1SyGFCwIGEqIjB9muntfjMNp7w/THbUUiVa0=",
-        "last_login": "2020-02-15T15:51:57.305Z",
+        "last_login": "2020-02-17T22:34:11.716Z",
         "is_superuser": true,
         "username": "djangoadmin",
         "first_name": "",
@@ -689,7 +747,7 @@
     "pk": 2,
     "fields": {
         "password": "pbkdf2_sha256$180000$yHMZOkTHZbKq$U5GMjNs2rxAhPs4w1SpHL0hrhzEuHc/QNirG7WnV6kA=",
-        "last_login": null,
+        "last_login": "2020-02-17T22:33:34.032Z",
         "is_superuser": false,
         "username": "librarian1",
         "first_name": "Jane",
@@ -722,6 +780,40 @@
             3
         ],
         "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$tbfWlIRnvfwX$0ukABgXi7hbYvpLNuMOhj4T98V2fRCSTEphqSNO2m7o=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "student2",
+        "first_name": "Milhouse",
+        "last_name": "Van Houten",
+        "email": "manalco2+student2@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-02-16T18:32:00Z",
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "loans.loan",
+    "pk": 2,
+    "fields": {
+        "student": 3,
+        "book": 1,
+        "subject": 4,
+        "loan_starts": "2020-02-16",
+        "loan_ends": "2020-02-21",
+        "return_date": "2020-02-16",
+        "status": false,
+        "notes": ""
     }
 },
 {
@@ -1060,6 +1152,188 @@
         "object_repr": "Python Pocket Reference: Python In Your Pocket",
         "action_flag": 1,
         "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2020-02-16T18:32:00.989Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "4",
+        "object_repr": "student2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2020-02-16T18:33:41.922Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "4",
+        "object_repr": "student2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Groups\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2020-02-16T19:02:33.435Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "3",
+        "object_repr": "Student",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2020-02-16T19:04:28.641Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Librarian",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2020-02-16T19:07:45.019Z",
+        "user": 2,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Loan object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2020-02-16T19:31:06.245Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Loan object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2020-02-16T19:59:41.369Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2020-02-16T20:01:40.975Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2020-02-16T20:33:31.237Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2020-02-16T21:02:23.170Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2020-02-16T21:05:34.326Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Loan is active\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2020-02-16T21:05:49.258Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Loan is active\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2020-02-16T21:09:24.601Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "student1 - Physics for Scientists and Engineers: A Strategic Approach with Modern Physics",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Loan is active\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2020-02-17T22:35:10.993Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Librarian",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
     }
 }
 ]

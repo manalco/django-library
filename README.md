@@ -7,6 +7,10 @@
 * Vue.js
 * Bootstrap
 
+## Paths
+* Backend (Librarians and Admins): http://localhost:8000
+* Frontend (Students): http://localhost:8080
+
 
 ---
 
